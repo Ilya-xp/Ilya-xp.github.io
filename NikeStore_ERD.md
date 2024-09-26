@@ -7,19 +7,19 @@ erDiagram
     CUSTOMER ||--o{ SALE : "buys"
     PRODUCT ||--o{ INVENTORY : "has"
     
-    PRODUCT {
+    **PRODUCT** {
         string product_id PK
         string model_name
         float price
     }
     
-    CUSTOMER {
+    **CUSTOMER** {
         string customer_id PK
         string name
         string email
     }
     
-    SALE {
+    **SALE** {
         string sale_id PK
         string product_id FK
         string customer_id FK
@@ -28,7 +28,7 @@ erDiagram
         float total_price
     }
     
-    INVENTORY {
+    **INVENTORY** {
         string inventory_id PK
         string product_id FK
         int quantity_available
