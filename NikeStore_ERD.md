@@ -1,6 +1,5 @@
 # Ilya-xp.github.io
 
-
 ```mermaid
 erDiagram
     PRODUCT ||--o{ SALE : "sells"
@@ -32,6 +31,8 @@ erDiagram
         string product_id FK
         int quantity_available
     }
+
+```
 
 #Relationship Description
 
