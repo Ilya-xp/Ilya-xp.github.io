@@ -16,3 +16,15 @@
 * 3. Created a new folder.
 * 4. Renamed it to GitHub.
 * 5. Inserted the repository into the new folder.
+
+#About Me
+
+##My Interests  
+Sleep is very interesting to me. I can sleep for 8 hours and feel like I haven't slept enough. But then I sleep for 6 hours and feel refreshed. It might have to do with my mindset. 
+
+##Websites I Recommend  
+
+1. [**Epilepsy Warning!**](http://www.staggeringbeauty.com)  
+I like that the warning for flashing images and loud noises is small so I just clicked okay. It scared me for a second. **Love it**. I rate this website 5/10. 
+2. [Cat Bouncer](https://cat-bounce.com)  
+The cats are cool looking. They can bounce. I rate this website 7/10.
