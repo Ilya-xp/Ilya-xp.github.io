@@ -34,7 +34,7 @@ erDiagram
 
 ```
 
-#Relationship Description
+# Relationship Description
 
 * The customer is a consumer with identification.
 * The customer has a relationship with the sale. Both are connected by the purchase of shoes.
